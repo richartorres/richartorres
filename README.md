@@ -106,9 +106,6 @@
 <div align="center">
 
 
-<!-- Gráfico de Contribuciones Isométrico -->
-<img src="https://github.com/richartorres/richartorres/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Gráfico de Contribuciones Isométrico" width="100%" />
-
   <!-- Racha de Contribuciones / Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richartorres&theme=dracula&hide_border=true" alt="Racha de GitHub" width="100%" />
 
