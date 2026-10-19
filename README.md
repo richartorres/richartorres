@@ -106,9 +106,8 @@
 <div align="center">
 
 
- <!-- Gráfico Analítico de Actividad -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=richartorres&theme=dracula&area=true&hide_border=true" alt="Gráfico de Actividad de GitHub" width="100%" />
-  <br/><br/>
+<!-- Gráfico Analítico de Actividad (Con tema Nord) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=richartorres&theme=nord&area=true&hide_border=true" alt="Gráfico de Actividad de GitHub" width="100%" />
 
   <!-- Racha de Contribuciones / Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richartorres&theme=dracula&hide_border=true" alt="Racha de GitHub" width="100%" />
