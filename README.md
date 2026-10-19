@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=richartorres&color=6e5494&style=for-the-badge&label=VISTAS+AL+PERFIL)
+![Profile Views](https://img.shields.io/badge/Vistas%20al%20Perfil-Richi%20Torres-6e5494?style=for-the-badge&logo=github)
 
 <br/>
 
@@ -31,7 +31,7 @@
 - 🎓 **Formación:** Titulación Técnica en Programación de Software (**SENA**).
 - 🛠️ **Enfoque Tecnológico:** Desarrollo activo en **PHP (Laravel)**, **C# (.NET Core)**, **TypeScript / Next.js** y aplicación de principios **SOLID / Clean Code**.
 - 💼 **Experiencia Práctica:** Desarrollo e implementación de soluciones en producción para entornos corporativos y logística operativa.
-- 🎯 **Meta Profesional:** Diseñar e implementar sistemas eficientes y escalables dentro de equipos de ingeniería de alto impacto (Bancolombia, SURA).
+- 🎯 **Meta Profesional:** Diseñar e implementar sistemas eficientes y escalables dentro de equipos de ingeniería de alto impacto.
 
 ---
 
