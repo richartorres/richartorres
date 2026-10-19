@@ -105,9 +105,9 @@
 
 <div align="center">
 
-  <!-- Gráfico Analítico de Actividad -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richartorres&theme=dracula&hide_border=true&area=true" alt="Gráfico de Actividad de GitHub" width="100%" />
 
+ <!-- Gráfico Analítico de Actividad -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=richartorres&theme=dracula&area=true&hide_border=true" alt="Gráfico de Actividad de GitHub" width="100%" />
   <br/><br/>
 
   <!-- Racha de Contribuciones / Streak -->
