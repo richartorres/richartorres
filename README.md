@@ -106,8 +106,8 @@
 <div align="center">
 
 
-<!-- Gráfico Analítico de Actividad (Con tema Nord) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=richartorres&theme=nord&area=true&hide_border=true" alt="Gráfico de Actividad de GitHub" width="100%" />
+<!-- Gráfico de Contribuciones Isométrico -->
+<img src="https://github.com/richartorres/richartorres/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="Gráfico de Contribuciones Isométrico" width="100%" />
 
   <!-- Racha de Contribuciones / Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richartorres&theme=dracula&hide_border=true" alt="Racha de GitHub" width="100%" />
