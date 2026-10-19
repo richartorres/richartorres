@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://img.shields.io/badge/Vistas%20al%20Perfil-Richi%20Torres-6e5494?style=for-the-badge&logo=github)
+[![Profile Views](https://img.shields.io/badge/Vistas%20al%20Perfil-Richi%20Torres-6e5494?style=for-the-badge&logo=github)](https://github.com/richartorres)
 
 <br/>
 
